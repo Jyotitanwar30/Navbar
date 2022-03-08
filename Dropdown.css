@@ -27,10 +27,4 @@
     text-decoration: none;
     color: #fff;
     padding: 16px;
-  }
-  
-  @media screen and (max-width: 960px) {
-    .fa-caret-down {
-      display: none;
-    }
-  }
+}
